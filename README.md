@@ -7,4 +7,4 @@
 - 🎯 Continuously learning and currently looking for opportunities to grow in software engineering
 
 
-
+📫 Reach me at: [kelechiogbonnaya2020@gmail.com](mailto:kelechiogbonnaya2020@gmail.com)
