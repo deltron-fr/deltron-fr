@@ -6,14 +6,5 @@
 - 🛠️ Exploring distributed systems while building CLI applications and backend services
 - 🎯 Continuously learning and currently looking for opportunities to grow in software engineering
 
-----
 
-### 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,golang,postgres,sqlite,arduino,sklearn" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,azure,aws,githubactions,git,prometheus,grafana" />
-</p>
 
