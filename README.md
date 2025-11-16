@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,golang,postgres,sqlite,Pandas,numpy,sklearn" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,azure,aws,githubactions,arduino,git,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,golang,postgres,sqlite,arduino,sklearn" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,azure,aws,githubactions,git,prometheus,grafana" />
 </p>
 
 <hr>
