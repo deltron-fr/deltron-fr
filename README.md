@@ -5,4 +5,4 @@
 - 🛠️ Exploring distributed systems while building CLI applications and backend services
 - 🎯 Continuously learning and currently looking for opportunities to grow in software engineering
 
-📫 Reach me at: [kelechiogbonnaya2020@gmail.com](mailto:kayceeogbonnaya2304@gmail.com)
+📫 Reach me at: [kayceeogbonnaya2304@gmail.com](mailto:kayceeogbonnaya2304@gmail.com)
